@@ -1,0 +1,1 @@
+An iOS Camera App for detection of various objects using inceptionv3 neural network.
